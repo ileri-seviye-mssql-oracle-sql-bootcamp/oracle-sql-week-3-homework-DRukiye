@@ -1,0 +1,18 @@
+
+INSERT INTO SESSIONS (ID, TIME_) VALUES (1,to_timestamp('09:00', 'HH24:MI'));
+--Row 2
+INSERT INTO SESSIONS (ID, TIME_) VALUES (2,to_timestamp('10:30', 'HH24:MI'));
+--Row 3
+INSERT INTO SESSIONS (ID, TIME_) VALUES (3,to_timestamp('13:30', 'HH24:MI'));
+--Row 4
+INSERT INTO SESSIONS (ID, TIME_) VALUES (4,to_timestamp('14:30', 'HH24:MI'));
+--Row 5
+INSERT INTO SESSIONS (ID, TIME_) VALUES (5,to_timestamp('15:30', 'HH24:MI'));
+--Row 6
+INSERT INTO SESSIONS (ID, TIME_) VALUES (6,to_timestamp('16:30', 'HH24:MI'));
+--Row 7
+INSERT INTO SESSIONS (ID, TIME_) VALUES (7,to_timestamp('17:30', 'HH24:MI'));
+--Row 8
+INSERT INTO SESSIONS (ID, TIME_) VALUES (8,to_timestamp('18:30', 'HH24:MI'));
+--Row 9
+INSERT INTO SESSIONS (ID, TIME_) VALUES (9,to_timestamp('20:30', 'HH24:MI'));
